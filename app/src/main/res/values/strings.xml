@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">JobTestIt</string>
+    <string name="nama">Nama</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="alamat">Alamat</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="simpan">Simpan</string>
+    <string name="back_to_login">Back to Login</string>
+
+    <string-array name="Jenis_Kelamin">
+        <item>Pilih Jenis Kelamin</item>
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
